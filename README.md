@@ -9,13 +9,8 @@ Your article ought to look well. 👀 Utilize headings, subheadings, screenshots
 
 ✅ Task Summary
 
-Request to be given the problem.
-
-Await your assignment.
-
-In your blog, discuss Amazon Web Services.
-
-Post a piece on the website or platform of your choice.
-Hashnode, Dev.to, and Medium
-
-Send a pull request .
+Ask to be assigned to the issue.
+Wait to be assigned.
+Write a blog post about Amazon Web Services.
+Publish an article on your favorite platform or website. (Medium, Dev.to, Hashnode...)
+Submit a pull request.
